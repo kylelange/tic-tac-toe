@@ -1,7 +1,7 @@
 # [Tic-Tac-Toe](http://karenfreemansmith.github.io/tic-tac-toe)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: April 18, 2016__
+__Version 1: May 4, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
@@ -25,7 +25,8 @@ Consider making four constructors/prototypes: Player, Space, Board, and Game. Th
 For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 
 ### Known Issues
-* Still Under Construction
+* No objects implemented
+* "Game" cannot tell if it's over, or if anyone won yet
 
 ### Technologies Used
 ###### HTML, CSS, Bootstrap, JavaScript, jQuery
