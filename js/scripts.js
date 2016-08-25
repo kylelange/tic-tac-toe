@@ -43,11 +43,11 @@ if (
    )
   {
     this.isWinner = true;
-    setTimeout(function() { alert("You Won!"); });
+    setTimeout(function() { alert("You Won!"); }, 500);
   } else if ((this.ax.mark)&&(this.ay.mark)&&(this.az.mark)&&
             (this.bx.mark)&&(this.by.mark)&&(this.bz.mark)&&
             (this.cx.mark)&&(this.cy.mark)&&(this.cz.mark)){
-    setTimeout(function() { alert("It's a draw!"); });
+    setTimeout(function() { alert("It's a draw!"); }, 500);
   }
 }
 
