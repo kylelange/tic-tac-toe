@@ -1,8 +1,8 @@
 # [Tic-Tac-Toe](http://karenfreemansmith.github.io/tic-tac-toe)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: May 4, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+__Version 2: August 25, 2016__
+## by [Karen Freeman-Smith](http://karenfreemansmith.github.io) and [Kyle Lange](https://github.com/kylelange)
 
 ### Description
 __*A webpage that plays Tic-Tac-Toe.*__
@@ -15,18 +15,15 @@ Consider making four constructors/prototypes: Player, Space, Board, and Game. Th
     * A board should create 9 spaces with the proper coordinates, and tell if there are three in a row marked by the same player. A board should be able to return a space by its coordinates (e.g., board.find(1, 2)).
     * A game should create 2 players and a board, be able to move to the next turn, know which player's turn it is, and be able to tell if the game is over or not.
 
-#### Uses:
-* [Fresh Start](http://karenfreemansmith.github.io/freshstart)
 
 ### Setup/Installation
 *None required. Clone or download and extract to use*
 
 ### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+For questions or comments, please __email [Karen](karenfreemansmith@gmail.com) or [Kyle](baronsintrees@gmail.com)__
 
 ### Known Issues
-* No objects implemented
-* "Game" cannot tell if it's over, or if anyone won yet
+* None.
 
 ### Technologies Used
 ###### HTML, CSS, Bootstrap, JavaScript, jQuery
@@ -34,4 +31,4 @@ For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
 ### Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 **_Karen Freeman-Smith_** & **_Kyle Lange_**
